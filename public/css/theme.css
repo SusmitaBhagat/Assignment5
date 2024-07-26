@@ -1,0 +1,78 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.google.com/specimen/Playwrite+IT+Trad?query=itali');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Playwrite IT Moderna', cursive;
+    background: linear-gradient(to bottom, rgb(231, 151, 151), rgb(170, 170, 229));
+    overflow: auto;
+
+   
+      
+}
+
+
+/* Navigation Bar */
+.bg-light {
+    background-color: #396c9e !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    color: #343a40 !important;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
+
+.nav-link {
+    color: #343a40 !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link:hover {
+    color: #007bff !important;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.table {
+    background-color: #85d8a2;
+}
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    color: #343a40;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+/* Links */
+a {
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Fieldset Legends */
+legend {
+    padding: 10px 0;
+    font-family: 'Roboto', sans-serif;
+    color: #343a40;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+
